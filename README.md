@@ -51,7 +51,7 @@ If the data is not normally distributed; then the Krustal-Wallis will be perform
 
 The Kruskal-Wallis test returns a test statistic and a p-value. If the p-value is less than 0.05, then the null can be rejected because there would be a significant difference between the total volume avocados sold.
 
-# To determine whether there is a significant difference in the total volume of avocados sold between the chosen average prices (test the hypothesis); the experiment must be run, and data must be collected. However, there is no collected data since this is an experiment proposal; therefore, the average price from 2015 to 2018 will be examined to detect a difference in average price between those years which could possibly affect number of avocados sold.
+To determine whether there is a significant difference in the total volume of avocados sold between the chosen average prices (test the hypothesis); the experiment must be run, and data must be collected. However, there is no collected data since this is an experiment proposal; therefore, the average price from 2015 to 2018 will be examined to detect a difference in average price between those years which could possibly affect number of avocados sold.
 
 # Results
 Based on visual inspection and descriptive statistics the variable is normally distributed.
